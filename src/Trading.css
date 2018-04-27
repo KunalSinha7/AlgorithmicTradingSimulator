@@ -1,0 +1,13 @@
+.whole {
+  width: 100vw;
+  margin-top: 2vh;
+}
+
+.cardCol {
+  margin-top: 2vh;
+  font-family: sans-serif;
+}
+
+.card {
+  margin: 1vh;
+}
